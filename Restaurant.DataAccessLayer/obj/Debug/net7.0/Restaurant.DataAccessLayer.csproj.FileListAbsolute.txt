@@ -1,0 +1,17 @@
+D:\Project\Restaurant\Restaurant.DataAccessLayer\bin\Debug\net7.0\Restaurant.DataAccessLayer.deps.json
+D:\Project\Restaurant\Restaurant.DataAccessLayer\bin\Debug\net7.0\Restaurant.DataAccessLayer.runtimeconfig.json
+D:\Project\Restaurant\Restaurant.DataAccessLayer\bin\Debug\net7.0\Restaurant.DataAccessLayer.dll
+D:\Project\Restaurant\Restaurant.DataAccessLayer\bin\Debug\net7.0\Restaurant.DataAccessLayer.pdb
+D:\Project\Restaurant\Restaurant.DataAccessLayer\bin\Debug\net7.0\Restaurant.EntityLayer.dll
+D:\Project\Restaurant\Restaurant.DataAccessLayer\bin\Debug\net7.0\Restaurant.EntityLayer.pdb
+D:\Project\Restaurant\Restaurant.DataAccessLayer\obj\Debug\net7.0\Restaurant.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Project\Restaurant\Restaurant.DataAccessLayer\obj\Debug\net7.0\Restaurant.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Restaurant\Restaurant.DataAccessLayer\obj\Debug\net7.0\Restaurant.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Project\Restaurant\Restaurant.DataAccessLayer\obj\Debug\net7.0\Restaurant.DataAccessLayer.AssemblyInfo.cs
+D:\Project\Restaurant\Restaurant.DataAccessLayer\obj\Debug\net7.0\Restaurant.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Project\Restaurant\Restaurant.DataAccessLayer\obj\Debug\net7.0\Restaurant.DataAccessLayer.csproj.CopyComplete
+D:\Project\Restaurant\Restaurant.DataAccessLayer\obj\Debug\net7.0\Restaurant.DataAccessLayer.dll
+D:\Project\Restaurant\Restaurant.DataAccessLayer\obj\Debug\net7.0\refint\Restaurant.DataAccessLayer.dll
+D:\Project\Restaurant\Restaurant.DataAccessLayer\obj\Debug\net7.0\Restaurant.DataAccessLayer.pdb
+D:\Project\Restaurant\Restaurant.DataAccessLayer\obj\Debug\net7.0\Restaurant.DataAccessLayer.genruntimeconfig.cache
+D:\Project\Restaurant\Restaurant.DataAccessLayer\obj\Debug\net7.0\ref\Restaurant.DataAccessLayer.dll

@@ -1,0 +1,17 @@
+D:\Project\Restaurant\Restaurant.BusinessLayer\bin\Debug\net7.0\Restaurant.BusinessLayer.deps.json
+D:\Project\Restaurant\Restaurant.BusinessLayer\bin\Debug\net7.0\Restaurant.BusinessLayer.dll
+D:\Project\Restaurant\Restaurant.BusinessLayer\bin\Debug\net7.0\Restaurant.BusinessLayer.pdb
+D:\Project\Restaurant\Restaurant.BusinessLayer\bin\Debug\net7.0\Restaurant.DataAccessLayer.dll
+D:\Project\Restaurant\Restaurant.BusinessLayer\bin\Debug\net7.0\Restaurant.EntityLayer.dll
+D:\Project\Restaurant\Restaurant.BusinessLayer\bin\Debug\net7.0\Restaurant.DataAccessLayer.pdb
+D:\Project\Restaurant\Restaurant.BusinessLayer\bin\Debug\net7.0\Restaurant.EntityLayer.pdb
+D:\Project\Restaurant\Restaurant.BusinessLayer\obj\Debug\net7.0\Restaurant.BusinessLayer.csproj.AssemblyReference.cache
+D:\Project\Restaurant\Restaurant.BusinessLayer\obj\Debug\net7.0\Restaurant.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Restaurant\Restaurant.BusinessLayer\obj\Debug\net7.0\Restaurant.BusinessLayer.AssemblyInfoInputs.cache
+D:\Project\Restaurant\Restaurant.BusinessLayer\obj\Debug\net7.0\Restaurant.BusinessLayer.AssemblyInfo.cs
+D:\Project\Restaurant\Restaurant.BusinessLayer\obj\Debug\net7.0\Restaurant.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Project\Restaurant\Restaurant.BusinessLayer\obj\Debug\net7.0\Restaurant.BusinessLayer.csproj.CopyComplete
+D:\Project\Restaurant\Restaurant.BusinessLayer\obj\Debug\net7.0\Restaurant.BusinessLayer.dll
+D:\Project\Restaurant\Restaurant.BusinessLayer\obj\Debug\net7.0\refint\Restaurant.BusinessLayer.dll
+D:\Project\Restaurant\Restaurant.BusinessLayer\obj\Debug\net7.0\Restaurant.BusinessLayer.pdb
+D:\Project\Restaurant\Restaurant.BusinessLayer\obj\Debug\net7.0\ref\Restaurant.BusinessLayer.dll

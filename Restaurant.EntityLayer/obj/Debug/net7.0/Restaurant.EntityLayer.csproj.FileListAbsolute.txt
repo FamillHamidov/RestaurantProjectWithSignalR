@@ -1,0 +1,12 @@
+D:\Project\Restaurant\Restaurant.EntityLayer\bin\Debug\net7.0\Restaurant.EntityLayer.deps.json
+D:\Project\Restaurant\Restaurant.EntityLayer\bin\Debug\net7.0\Restaurant.EntityLayer.dll
+D:\Project\Restaurant\Restaurant.EntityLayer\bin\Debug\net7.0\Restaurant.EntityLayer.pdb
+D:\Project\Restaurant\Restaurant.EntityLayer\obj\Debug\net7.0\Restaurant.EntityLayer.csproj.AssemblyReference.cache
+D:\Project\Restaurant\Restaurant.EntityLayer\obj\Debug\net7.0\Restaurant.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Restaurant\Restaurant.EntityLayer\obj\Debug\net7.0\Restaurant.EntityLayer.AssemblyInfoInputs.cache
+D:\Project\Restaurant\Restaurant.EntityLayer\obj\Debug\net7.0\Restaurant.EntityLayer.AssemblyInfo.cs
+D:\Project\Restaurant\Restaurant.EntityLayer\obj\Debug\net7.0\Restaurant.EntityLayer.csproj.CoreCompileInputs.cache
+D:\Project\Restaurant\Restaurant.EntityLayer\obj\Debug\net7.0\Restaurant.EntityLayer.dll
+D:\Project\Restaurant\Restaurant.EntityLayer\obj\Debug\net7.0\refint\Restaurant.EntityLayer.dll
+D:\Project\Restaurant\Restaurant.EntityLayer\obj\Debug\net7.0\Restaurant.EntityLayer.pdb
+D:\Project\Restaurant\Restaurant.EntityLayer\obj\Debug\net7.0\ref\Restaurant.EntityLayer.dll
