@@ -1,7 +1,9 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Restaurant.BusinessLayer.Abstract;
+using Restaurant.DataAccessLayer.Concrete;
 using Restaurant.DataAccessLayer.EntityFramework;
 using Restaurant.EntityLayer.Dtos.About;
 using Restaurant.EntityLayer.Dtos.Product;
@@ -27,10 +29,26 @@ namespace Restaurant.WebApi.Controllers
             var values = _mapper.Map<List<ResultProductDto>>(_productService.TGetList());
             return Ok(values);
         }
+        [HttpGet("ProductListWithCategory")]
+        public IActionResult ProductListWithCategory()
+        {
+            var context = new Context();
+            var values = context.Products.Include(x => x.Category).Select(y => new ResultProductWithCategory
+            {
+                Name = y.Name,
+                Description = y.Description,
+                Price = y.Price,
+                Status = y.Status,
+                ImageUrl = y.ImageUrl,
+                Id = y.Id,
+                CategoryName = y.Category.Name
+            }).ToList();
+            return Ok(values);
+        }
         [HttpPost]
         public IActionResult AddProduct(CreateProductDto createProductDto)
         {
-            Product product= _mapper.Map<Product>(createProductDto);
+            Product product = _mapper.Map<Product>(createProductDto);
             _productService.TAdd(product);
             return Ok();
         }
